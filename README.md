@@ -1,4 +1,4 @@
 # Flutter Basic Project
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](flutter_01.png)
